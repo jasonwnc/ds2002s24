@@ -1,1 +1,2 @@
-
+Here are two file...one to handle connecting to the Discord Server and the other to manage your responses. You'll want to use the ENV
+variable if you don't want to hard code your token in the source
